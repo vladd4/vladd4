@@ -36,15 +36,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladd4&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contacts
-<a href="https://github.com/vladd4/">
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-</a>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vladd4/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vldntss)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vladdonets/)
 
-<a href="https://t.me/vldntss">
-  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-</a>
-
-<a href="https://www.instagram.com/vladdonets/">
-  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-</a>
-
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!

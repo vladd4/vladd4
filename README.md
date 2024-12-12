@@ -1,6 +1,6 @@
 # Hi there 🔥 I`m Vladyslav
 
-### I am FrontEnd Developer with 2,5+ years of experience.
+### I am FrontEnd Developer with 2+ years of experience.
 
 ### FrontEnd Technology Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
